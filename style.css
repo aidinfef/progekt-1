@@ -44,4 +44,10 @@
   justify-content: flex-end;
   align-items: flex-start;
 }
+.p-2{
+  display: flex;
+  justify-content: flex-end;
+  
+  
+}
 
